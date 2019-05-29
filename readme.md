@@ -9,8 +9,8 @@
     b. src/app/datagrid/datagrid.component.ts
     c. src/app/datagrid/datagrid.component.html
 
-Sample Page
-http://datagrid.stefclay.com/table
+Sample Page (click on 'View Table' in menu)
+http://datagrid.stefclay.com/
 
 ##Credits
 https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
