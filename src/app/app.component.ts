@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Angular Material Datagrid Example';
+  title = 'Angular Material Datagrid Table';
 }

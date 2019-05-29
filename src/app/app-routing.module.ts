@@ -3,7 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { QPLListComponent } from './datagrid/datagrid.component';
 
 const routes: Routes = [
-  { path: 'list', component: QPLListComponent },
+  { path: 'table', component: QPLListComponent },
   { path: '', redirectTo: '/', pathMatch: 'full' }
 ];
 
