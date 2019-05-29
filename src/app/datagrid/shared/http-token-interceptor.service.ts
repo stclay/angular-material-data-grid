@@ -10,7 +10,7 @@ export class HttpTokenInterceptorService implements HttpInterceptor {
   intercept(req, next) {
     let tokenizedReq = req.clone({
       setHeaders: {
-        Authorization: 'Bearer 3D9BBDEB-CB28-4724-A392-33EBF084EAF8'
+        Authorization: 'Bearer your-bearer-token-here'
       }
     })
     return next.handle(tokenizedReq)
