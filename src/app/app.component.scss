@@ -1,0 +1,25 @@
+.navbar {
+  justify-content: space-between;
+}
+
+li a {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: #ccc;
+}
+
+a.active {
+  color: lightgoldenrodyellow;
+}
+
+.data-grid {
+  width: 96%;
+  margin: 1rem auto;
+}
+
+span {
+  padding-right: 2rem;
+}

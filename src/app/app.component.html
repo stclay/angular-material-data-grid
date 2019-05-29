@@ -1,0 +1,15 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1 class="mat-display-3">
+    {{ title }}
+  </h1>
+  <mat-toolbar color="primary" class="navbar">
+    <span>Retrieved GET Data Report</span>
+    <div>
+      <span><a [routerLink]="['/']" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Home</a></span>
+      <span><a [routerLink]="['/list']" routerLinkActive="active">View Data</a></span>
+    </div>
+  </mat-toolbar>
+</div>
+
+<router-outlet></router-outlet>
