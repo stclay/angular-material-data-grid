@@ -10,7 +10,7 @@
     c. src/app/datagrid/datagrid.component.html
 
 Sample Page
-[http://datagrid.stefclay.com/table](http://datagrid.stefclay.com/table)
+http://datagrid.stefclay.com/table
 
 ##Credits
 https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw
